@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "quizzes": "Quizzes",
+    "announcements": "Announcements",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "signUp": "Sign Up",
+    "welcome": "Welcome to Student Portal",
+    "pleaseLogin": "Please log in to access your dashboard",
+    "goToDashboard": "Go to Dashboard",
+    "goToLogin": "Go to Login",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "confirmPassword": "Confirm Password",
+    "newPassword": "New Password",
+    "forgotPassword": "Forgot Password?",
+    "forgotPasswordDesc": "Enter your email address and we'll send you a link to reset your password",
+    "resetPassword": "Reset Password",
+    "resetPasswordButton": "Reset Password",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Login",
+    "resetEmailSent": "Check your email for password reset instructions",
+    "enterNewPassword": "Enter your new password below",
+    "passwordResetSuccess": "Password Reset Successfully!",
+    "redirectingToLogin": "Redirecting to login in {{seconds}} seconds...",
+    "invalidResetLink": "Invalid or expired reset link",
+    "requestNewReset": "Please request a new password reset",
+    "requestPasswordReset": "Request Password Reset",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "passwordStrength": "Password Strength",
+    "weak": "Weak",
+    "medium": "Medium",
+    "good": "Good",
+    "strong": "Strong",
+    "minChars": "At least 6 characters",
+    "uppercase": "Contains uppercase letter",
+    "number": "Contains number",
+    "passwordsMatch": "Passwords match",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "createAccount": "Create a new account to get started",
+    "passwordMismatch": "Passwords do not match",
+    "continueAsGuest": "Continue as Guest",
+    "loginRequired": "Please login to access this page"
+  },
+  "dashboard": {
+    "title": "Student Dashboard",
+    "upcomingQuizzes": "Upcoming Quizzes",
+    "recentAnnouncements": "Recent Announcements",
+    "viewQuizzes": "View Quizzes",
+    "viewAnnouncements": "View Announcements"
+  },
+  "quiz": {
+    "dueDate": "Due Date",
+    "course": "Course",
+    "topic": "Topic",
+    "noQuizzes": "No quizzes available"
+  },
+  "announcement": {
+    "date": "Date",
+    "noAnnouncements": "No announcements available"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "viewAll": "View All",
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundDesc": "The page you are looking for doesn't exist or has been moved.",
+    "goToDashboard": "Go to Dashboard",
+    "goBack": "Go Back"
+  }
+}
