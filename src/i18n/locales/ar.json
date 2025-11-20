@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "quizzes": "الاختبارات",
+    "announcements": "الإعلانات",
+    "settings": "الإعدادات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "signUp": "إنشاء حساب",
+    "welcome": "مرحباً بك في بوابة الطلاب",
+    "pleaseLogin": "يرجى تسجيل الدخول للوصول إلى لوحة التحكم",
+    "goToDashboard": "الذهاب إلى لوحة التحكم",
+    "goToLogin": "الذهاب لتسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "newPassword": "كلمة المرور الجديدة",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "forgotPasswordDesc": "أدخل عنوان بريدك الإلكتروني وسنرسل لك رابطًا لإعادة تعيين كلمة المرور",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "resetPasswordButton": "إعادة تعيين كلمة المرور",
+    "sendResetLink": "إرسال رابط إعادة التعيين",
+    "backToLogin": "العودة لتسجيل الدخول",
+    "resetEmailSent": "تحقق من بريدك الإلكتروني للحصول على تعليمات إعادة تعيين كلمة المرور",
+    "enterNewPassword": "أدخل كلمة المرور الجديدة أدناه",
+    "passwordResetSuccess": "تم إعادة تعيين كلمة المرور بنجاح!",
+    "redirectingToLogin": "جارٍ التوجيه لتسجيل الدخول في {{seconds}} ثوانٍ...",
+    "invalidResetLink": "رابط إعادة التعيين غير صالح أو منتهي الصلاحية",
+    "requestNewReset": "يرجى طلب إعادة تعيين كلمة مرور جديدة",
+    "requestPasswordReset": "طلب إعادة تعيين كلمة المرور",
+    "passwordTooShort": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+    "passwordStrength": "قوة كلمة المرور",
+    "weak": "ضعيفة",
+    "medium": "متوسطة",
+    "good": "جيدة",
+    "strong": "قوية",
+    "minChars": "6 أحرف على الأقل",
+    "uppercase": "يحتوي على حرف كبير",
+    "number": "يحتوي على رقم",
+    "passwordsMatch": "كلمات المرور متطابقة",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "createAccount": "إنشاء حساب جديد للبدء",
+    "passwordMismatch": "كلمات المرور غير متطابقة",
+    "continueAsGuest": "المتابعة كضيف",
+    "loginRequired": "يرجى تسجيل الدخول للوصول إلى هذه الصفحة"
+  },
+  "dashboard": {
+    "title": "لوحة تحكم الطالب",
+    "upcomingQuizzes": "الاختبارات القادمة",
+    "recentAnnouncements": "الإعلانات الأخيرة",
+    "viewQuizzes": "عرض الاختبارات",
+    "viewAnnouncements": "عرض الإعلانات"
+  },
+  "quiz": {
+    "dueDate": "تاريخ الاستحقاق",
+    "course": "المقرر",
+    "topic": "الموضوع",
+    "noQuizzes": "لا توجد اختبارات متاحة"
+  },
+  "announcement": {
+    "date": "التاريخ",
+    "noAnnouncements": "لا توجد إعلانات متاحة"
+  },
+  "common": {
+    "loading": "جار التحميل...",
+    "error": "حدث خطأ",
+    "retry": "إعادة المحاولة",
+    "viewAll": "عرض الكل",
+    "pageNotFound": "الصفحة غير موجودة",
+    "pageNotFoundDesc": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+    "goToDashboard": "الذهاب إلى لوحة التحكم",
+    "goBack": "رجوع"
+  }
+}
